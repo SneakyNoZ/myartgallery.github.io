@@ -1,1 +1,1 @@
-# myartgallery.github.io
+# my-art-gallery
